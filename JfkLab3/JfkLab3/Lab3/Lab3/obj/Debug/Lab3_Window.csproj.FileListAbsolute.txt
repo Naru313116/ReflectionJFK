@@ -1,0 +1,10 @@
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\obj\Debug\Lab3_Window.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\obj\Debug\Lab3_Window.Properties.Resources.resources
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\obj\Debug\Lab3_Window.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\obj\Debug\Lab3_Window.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\bin\Debug\Lab3_Window.exe.config
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\bin\Debug\Lab3_Window.exe
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\bin\Debug\Lab3_Window.pdb
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\obj\Debug\Lab3_Window.Form1.resources
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\obj\Debug\Lab3_Window.exe
+C:\Users\damia\Desktop\JfkLab3\Lab3\Lab3\obj\Debug\Lab3_Window.pdb

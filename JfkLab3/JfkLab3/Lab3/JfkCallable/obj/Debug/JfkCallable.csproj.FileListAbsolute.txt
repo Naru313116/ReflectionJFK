@@ -1,0 +1,10 @@
+C:\Users\damia\Desktop\JfkLab3\Lab3\JfkCallable\bin\Debug\JfkCallable.dll
+C:\Users\damia\Desktop\JfkLab3\Lab3\JfkCallable\bin\Debug\JfkCallable.pdb
+C:\Users\damia\Desktop\JfkLab3\Lab3\JfkCallable\obj\Debug\JfkCallable.csproj.CoreCompileInputs.cache
+C:\Users\damia\Desktop\JfkLab3\Lab3\JfkCallable\obj\Debug\JfkCallable.dll
+C:\Users\damia\Desktop\JfkLab3\Lab3\JfkCallable\obj\Debug\JfkCallable.pdb
+C:\Users\naru3\Desktop\JfkLab3\JfkLab3\Lab3\JfkCallable\bin\Debug\JfkCallable.dll
+C:\Users\naru3\Desktop\JfkLab3\JfkLab3\Lab3\JfkCallable\bin\Debug\JfkCallable.pdb
+C:\Users\naru3\Desktop\JfkLab3\JfkLab3\Lab3\JfkCallable\obj\Debug\JfkCallable.csproj.CoreCompileInputs.cache
+C:\Users\naru3\Desktop\JfkLab3\JfkLab3\Lab3\JfkCallable\obj\Debug\JfkCallable.dll
+C:\Users\naru3\Desktop\JfkLab3\JfkLab3\Lab3\JfkCallable\obj\Debug\JfkCallable.pdb
